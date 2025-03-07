@@ -1,5 +1,8 @@
-# dados-salao
-Banco de Dados 
+![GitHub License](https://img.shields.io/github/license/arthurcruzalves/dados-salao)
+
+
+# Dados Salão
+Banco de Dados para um salão
 
 ### Modelo Conceitual
 
